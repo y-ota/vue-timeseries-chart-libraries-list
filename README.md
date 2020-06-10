@@ -1,4 +1,4 @@
-# vue-timechart-libraries
+# Timechart libraries for Vue.js
 A memo of timeseries chart libraries for Vue.js
 
 | library | vue wrapper |
