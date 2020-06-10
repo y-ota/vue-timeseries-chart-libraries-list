@@ -1,4 +1,4 @@
-# A list of timechart libraries for Vue.js
+# A list of timeseries libraries for Vue.js
 
 | # | library | vue wrapper | description |
 ----|----|---- |---- |
